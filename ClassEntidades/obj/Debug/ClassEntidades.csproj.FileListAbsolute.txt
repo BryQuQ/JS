@@ -1,0 +1,15 @@
+C:\awapa\ClassEntidades\bin\Debug\ClassEntidades.dll
+C:\awapa\ClassEntidades\bin\Debug\ClassEntidades.pdb
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.dll
+C:\awapa\ClassEntidades\obj\Debug\ClassEntidades.pdb
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\bin\Debug\ClassEntidades.dll
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\bin\Debug\ClassEntidades.pdb
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\obj\Debug\ClassEntidades.csproj.CopyComplete
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\obj\Debug\ClassEntidades.dll
+C:\Users\Usuario\Desktop\sexito\awapa\awapa\ClassEntidades\obj\Debug\ClassEntidades.pdb
